@@ -1,0 +1,1 @@
+java -jar lab7.jar

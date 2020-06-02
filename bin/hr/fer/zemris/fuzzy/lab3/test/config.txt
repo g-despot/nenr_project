@@ -1,0 +1,4 @@
+java -jar C:\fuzzy\lab3.jar
+2
+10
+20
